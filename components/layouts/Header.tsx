@@ -38,7 +38,7 @@ export default function Header() {
         {/* Logo */}
 
         <Image
-          src="/logoo1112.jpeg"
+          src="/loogoo.png"
           alt="Billion"
           width={220}
           height={90}
