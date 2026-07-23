@@ -5,7 +5,7 @@ import Stats from "@/components/Home/Stats";
 import Founder from "@/components/Home/FounderMessage";
 import LatestNews from "@/components/Home/LatestNews";
 import CTA from "@/components/Home/CTA";
-import Footer from "@/components/layouts/Footer";
+
 
 export default function Home() {
   return (
@@ -17,7 +17,7 @@ export default function Home() {
       <Founder />
       <LatestNews />
       <CTA />
-      <Footer />
+      
     </>
   );
 }

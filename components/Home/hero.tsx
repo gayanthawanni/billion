@@ -9,7 +9,7 @@ export default function Hero() {
     <section className="relative h-screen min-h-[900px] overflow-hidden bg-black">
       {/* Background */}
       <Image
-        src="/home/hero/1.png"
+        src="/home/hero/5.png"
         alt="Billion Hero"
         fill
         priority
