@@ -42,7 +42,7 @@ export default function Footer() {
           <div>
 
             <Image
-              src="/footer/logo1112.jpeg"
+              src="/loogoo.png"
               alt="Billion"
               width={170}
               height={70}
