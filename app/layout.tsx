@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jobs 360",
+  title: "Billion Corp (Pvt) Ltd",
   description: "Find your next job opportunity with Jobs 360",
 };
 
